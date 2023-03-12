@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-5-no_c.py
+#5-no_c.py
 
 def no_c(my_string):
     """Removes all characters c and C from a string.""
